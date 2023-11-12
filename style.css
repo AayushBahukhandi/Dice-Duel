@@ -180,6 +180,7 @@ main {
 
   .dice {
     top: 10rem;
+    left:5rem;
   }
 
   .btn {
@@ -188,7 +189,7 @@ main {
   }
 
   .btn--new {
-    top:-0.7rem;
+    top:-0.6rem;
     left: 7rem;
   }
   .btn--roll {
