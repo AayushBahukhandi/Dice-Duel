@@ -188,10 +188,11 @@ main {
   }
 
   .btn--new {
+    top:-1rem;
     left: 7rem;
   }
   .btn--roll {
-    margin-left:7rem;
+    margin-left:6rem;
     top: 35rem;
   }
   .btn--hold {
