@@ -19,6 +19,6 @@ https://aayushbahukhandi.github.io/Dice-Duel/<br>
 <b>.</b>When a player's total score reaches or exceeds 100, they are declared the winner.
 <b>.</b>The winning player's section is highlighted, and the game ends.<br>
 
-4.<b>Starting a New Game:<b><br>
+4.<b>Starting a New Game:</b><br>
 
 <b>.</b>Click the "New Game" button to reset the game and start a new round
